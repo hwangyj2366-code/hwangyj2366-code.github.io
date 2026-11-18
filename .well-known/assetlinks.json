@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.hwangyj2366code.weekend",
+      "sha256_cert_fingerprints": ["1D:6C:12:4C:FF:0F:67:BA:7F:03:E1:38:EA:1A:09:4A:68:71:81:8D:5A:94:78:EF:EE:CA:7D:47:96:43:3C:84"]
+    }
+  }
+]
